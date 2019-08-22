@@ -1,0 +1,1 @@
+<%@ Application Inherits="KeithRull.FolderBrowserVB.KeithRull.FolderBrowserVB.Global" Language="VB" %>

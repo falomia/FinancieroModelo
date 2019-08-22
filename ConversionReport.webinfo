@@ -1,0 +1,27 @@
+﻿This report shows the steps taken to convert your Web application from ASP.NET 1.1 to ASP.NET 2.0. 
+There may be some unresolved conversion issues you will need to manually fix. 
+For more information, please refer to http://go.microsoft.com/fwlink/?LinkId=46995 or search for the help topic "Converting from Visual Studio .NET 2002 or 2003".
+Conversion Started on project file KeithRull.FolderBrowserVB.vbproj at August 29 2011, 16:51:13.
+
+=========================ERRORS===================
+
+=========================WARNINGS=================
+Warning: This web project was converted as a file-based web application. If your site contained any IIS meta-information, e.g. sub-folders marked as virtual directories, it is recommended that you close this web site and re-open it using the Open Web Site command and selecting the Local IIS tab.
+
+=========================COMMENTS=================
+Web.Config: Added 'xhtmlConformance' attribute.
+Removed attribute Codebehind from file Global.asax.
+Removed attribute Codebehind from file theNewWayBrowser.aspx.
+Access level of 'KeithRull.FolderBrowserVB.KeithRull.FileBrowserVB.theNewWayBrowser' changed to 'Partial' in file theNewWayBrowser.aspx.vb (Line 18).
+Removed comment lines before designplaceholder declaration from file theNewWayBrowser.aspx.vb.    theNewWayBrowser.aspx.vb (Line 28)
+Removed attribute Codebehind from file theOldWayBrowser.aspx.
+Access level of 'KeithRull.FolderBrowserVB.KeithRull.FolderBrowserVB.theOldWayBrowser' changed to 'Partial' in file theOldWayBrowser.aspx.vb (Line 10).
+Removed comment lines before designplaceholder declaration from file theOldWayBrowser.aspx.vb.    theOldWayBrowser.aspx.vb (Line 20)
+Added folder App_Code.
+Moved file Global.asax.vb to the App_Code\ directory.
+Moved file FileBrowserProperty.vb to the App_Code\ directory.
+Moved file AssemblyInfo.vb to the App_Code\ directory.
+Removed file Bin\KeithRull.FolderBrowserVB.dll.
+Removed file KeithRull.FolderBrowserVB.vbproj.
+Removed file KeithRull.FolderBrowserVB.vbproj.webinfo.
+Project KeithRull.FolderBrowserVB.vbproj has been converted successfully at August 29 2011, 16:51:29.

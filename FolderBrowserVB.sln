@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FolderBrowserVB", "\\sdatosnew\f$\AplicacionesWeb\read_Folder_RHH\FolderBrowserVB\", "{C87A26BD-5B7A-4312-906F-D904E18E0834}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/FolderBrowserVB"
+		Debug.AspNetCompiler.PhysicalPath = "\\sdatosnew\f$\AplicacionesWeb\read_Folder_RHH\FolderBrowserVB\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\FolderBrowserVB\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/FolderBrowserVB"
+		Release.AspNetCompiler.PhysicalPath = "\\sdatosnew\f$\AplicacionesWeb\read_Folder_RHH\FolderBrowserVB\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\FolderBrowserVB\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2615"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C87A26BD-5B7A-4312-906F-D904E18E0834}.Debug|.NET.ActiveCfg = Debug|.NET
+		{C87A26BD-5B7A-4312-906F-D904E18E0834}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
